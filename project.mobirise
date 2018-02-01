@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "home page",
+    "currentPage": "page19.html",
     "versionFirst": "2.5.2",
     "versionPublish": "4.6.3",
     "name": "GIFTSOFLOVE",
@@ -6817,7 +6817,7 @@
     },
     "page19.html": {
       "settings": {
-        "title": "Page 19",
+        "title": "Page19",
         "order": 13
       },
       "components": [
