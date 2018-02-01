@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page19.html",
+    "currentPage": ".home page",
     "versionFirst": "2.5.2",
     "versionPublish": "4.6.3",
     "name": "GIFTSOFLOVE",
@@ -14,327 +14,6 @@
     "noImageResize": ""
   },
   "pages": {
-    "home page": {
-      "settings": {
-        "main": true,
-        "title": "giftsoflove",
-        "meta_descr": "save website",
-        "header_custom": "",
-        "footer_custom": ""
-      },
-      "components": [
-        {
-          "_inherit": "header1",
-          "_name": "header4",
-          "_styles": {
-            "H1": {
-              "font-family": "'Noto Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
-            }
-          },
-          "_anchor": "header4-0",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/240-f-114227895-ltsnsccugkelul04j4obvynacd1inero359x240-180.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/x1DRnv4yYU0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/x1DRnv4yYU0",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.5"
-          },
-          "title": "GIFTS OF LOVE",
-          "text": "JUST HELPING THOSE IN NEED OF SOMETHING UNIQUE.",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page15.html#features1-1v\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRODUCT</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"page16.html#content5-1z\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">HOW TO ORDER</a>",
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet"
-        },
-        {
-          "_styles": {
-            "DIV": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "18px",
-              "color": "#f7da64"
-            },
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#fff",
-              "font-size": "48px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#f7da64",
-              "text-align": "center"
-            },
-            ".mbr-article DIV": {
-              "text-align": "center",
-              "color": "#f7da64"
-            }
-          },
-          "_name": "content5",
-          "_anchor": "content5-43",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1363568-red-background-design1920x1200-183.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": true,
-            "overlay": true,
-            "overlayColor": "#28324e",
-            "overlayOpacity": "0.4"
-          },
-          "title": "&nbsp; OUR INTRO&nbsp;",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "Gifts of love has been established since June 2016,<div>We are best friend team.</div><div>We only customized gift such as mugs, tote bags, tumblr</div><div>And many more!</div><div>Do look out for our new design and don’t forget</div><div>To place an order!</div><div><br></div>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "font-size": "46px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-article P": {
-              "text-align": "center",
-              "color": "#b8312f"
-            },
-            ".mbr-article UL": {
-              "text-align": "center"
-            }
-          },
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-44",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/240-f-114227895-ltsnsccugkelul04j4obvynacd1inero359x240-171.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "OUR MISSION",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>To provide <b>GOOD</b> quality competitiveness products to our customers.</p><p>To provide the <b>BEST </b>services to our customers.</p><p>To provide&nbsp;<b>COMPETITIVE</b> price to our customers.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"product\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SHOP NOW</a>"
-        },
-        {
-          "_inherit": "gallery1",
-          "_name": "gallery2",
-          "_params": {
-            "fullWidth": false,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": true,
-            "images": [
-              {
-                "thumb": "@PROJECT_PATH@/assets/images/il-340x270340x270-135340x270-174.jpg",
-                "image": "@PROJECT_PATH@/assets/images/il-340x270340x270-135.jpg",
-                "active": false
-              },
-              {
-                "thumb": "@PROJECT_PATH@/assets/images/192fcf8becc66124436d91b82e20454b1245x1149-1711245x1149-139.jpg",
-                "image": "@PROJECT_PATH@/assets/images/192fcf8becc66124436d91b82e20454b1245x1149-171.jpg",
-                "active": true
-              },
-              {
-                "thumb": "@PROJECT_PATH@/assets/images/24845088-532906470435215-3774933759606915072-n640x510-199640x510-194.jpg",
-                "image": "@PROJECT_PATH@/assets/images/24845088-532906470435215-3774933759606915072-n640x510-199.jpg",
-                "active": false
-              },
-              {
-                "thumb": "@PROJECT_PATH@/assets/images/il-fullxfull900x700-111900x700-125.jpg",
-                "image": "@PROJECT_PATH@/assets/images/il-fullxfull900x700-111.jpg",
-                "active": false
-              },
-              {
-                "thumb": "@PROJECT_PATH@/assets/images/image5800x600-124800x600-151.jpg",
-                "image": "@PROJECT_PATH@/assets/images/image5800x600-124.jpg",
-                "active": false
-              },
-              {
-                "thumb": "@PROJECT_PATH@/assets/images/5e2d3b8a7dbefab9153c688054f8ab9a404x316-115404x316-113.jpg",
-                "image": "@PROJECT_PATH@/assets/images/5e2d3b8a7dbefab9153c688054f8ab9a404x316-115.jpg",
-                "active": false
-              },
-              {
-                "thumb": "@PROJECT_PATH@/assets/images/download275x184-197275x184-119.jpg",
-                "image": "@PROJECT_PATH@/assets/images/download275x184-197.jpg",
-                "active": false
-              },
-              {
-                "thumb": "@PROJECT_PATH@/assets/images/il-340x270345x218-118345x218-192.jpg",
-                "image": "@PROJECT_PATH@/assets/images/il-340x270345x218-118.jpg",
-                "active": false
-              }
-            ]
-          },
-          "_anchor": "gallery2-45",
-          "articleLayout": true
-        },
-        {
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#ffffff"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".btn": {
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".mbr-article P": {
-              "text-align": "left"
-            }
-          },
-          "_name": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#3c3c3c",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "_anchor": "msg-box5-17",
-          "headerAlign": "left",
-          "title": "GIFTS OF LOVE&nbsp;",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>SNEAK PEEK AT OUR FIRST SCREEN PRINTING ON CANVAS BAG.</p><p>FOR MORE INFO VISIT:</p><p>https://syafiqahrai.wixsite.com/giftsoflove</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"product\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SHOP NOW</a>",
-          "media": {
-            "image": {
-              "src": "images/iphone.png",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/L2SfokF1I_0?rel=0&autoplay=0&loop=0",
-              "class": "mbr-figure__img",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          }
-        },
-        {
-          "items": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "",
-              "text": "\" Wow! Thank you very much for the very quick response! My order arrived in perfect condition the next few day. So definitely will order more from you.. \" Shan"
-            },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "r",
-              "text": "'' We did received the tumblrs and we are happy! Everyone was very well satisfied, thankyou for your good services gift of love.. \" Ismail<p class=\"mbr-reviews__p\"><br></p>"
-            },
-            {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "",
-              "text": "<p class=\"mbr-reviews__p\">“ Hi gifts of love.. </p><p class=\"mbr-reviews__p\">&nbsp; I finally got to see the bottles last night, we handed them out at our volunteer recognition dinner last night. Everyone loved them! Thank you so much for all your help.. &nbsp;” Fitri</p>"
-            }
-          ],
-          "_name": "testimonials1",
-          "testimonial": [
-            {
-              "authorName": "ABANOUB S.",
-              "authorBio": "",
-              "text": "\" Wow! Thank you very much for the very quick response! My order arrived in perfect condition the next few day. So definitely will order more from you.. \" Shan"
-            },
-            {
-              "authorName": "SUFFIAN A.",
-              "authorBio": "r",
-              "text": "'' We did received the tumblrs and we are happy! Everyone was very well satisfied, thankyou for your good services gift of love.. \" Ismail<p class=\"mbr-reviews__p\"><br></p>"
-            },
-            {
-              "authorName": "JHOLLMAN C.",
-              "authorBio": "",
-              "text": "<p class=\"mbr-reviews__p\">“ Hi gifts of love.. </p><p class=\"mbr-reviews__p\">&nbsp; I finally got to see the bottles last night, we handed them out at our volunteer recognition dinner last night. Everyone loved them! Thank you so much for all your help.. &nbsp;” Fitri</p>"
-            }
-          ],
-          "_anchor": "testimonials1-7",
-          "_params": {
-            "showTitle": true,
-            "showName": false,
-            "showBio": true,
-            "count": 3,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "overlay": true,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
-          },
-          "header": "WHAT OUR FANTASTIC USERS SAY"
-        }
-      ]
-    },
     "product": {
       "settings": {
         "title": "product",
@@ -8312,6 +7991,327 @@
           },
           "header": "WHAT OUR FANTASTIC USERS SAY",
           "_anchor": "testimonials1-2y"
+        }
+      ]
+    },
+    ".home page": {
+      "settings": {
+        "main": true,
+        "title": "giftsoflove",
+        "meta_descr": "save website",
+        "header_custom": "",
+        "footer_custom": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_name": "header4",
+          "_styles": {
+            "H1": {
+              "font-family": "'Noto Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Noto+Sans:400,700"
+            }
+          },
+          "_anchor": "header4-0",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/240-f-114227895-ltsnsccugkelul04j4obvynacd1inero359x240-180.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/x1DRnv4yYU0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/x1DRnv4yYU0",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.5"
+          },
+          "title": "GIFTS OF LOVE",
+          "text": "JUST HELPING THOSE IN NEED OF SOMETHING UNIQUE.",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"page15.html#features1-1v\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PRODUCT</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"page16.html#content5-1z\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">HOW TO ORDER</a>",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet"
+        },
+        {
+          "_styles": {
+            "DIV": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "18px",
+              "color": "#f7da64"
+            },
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff",
+              "font-size": "48px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#f7da64",
+              "text-align": "center"
+            },
+            ".mbr-article DIV": {
+              "text-align": "center",
+              "color": "#f7da64"
+            }
+          },
+          "_name": "content5",
+          "_anchor": "content5-43",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1363568-red-background-design1920x1200-183.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.4"
+          },
+          "title": "&nbsp; OUR INTRO&nbsp;",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "Gifts of love has been established since June 2016,<div>We are best friend team.</div><div>We only customized gift such as mugs, tote bags, tumblr</div><div>And many more!</div><div>Do look out for our new design and don’t forget</div><div>To place an order!</div><div><br></div>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "font-size": "46px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "color": "#b8312f"
+            },
+            ".mbr-article UL": {
+              "text-align": "center"
+            }
+          },
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-44",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/240-f-114227895-ltsnsccugkelul04j4obvynacd1inero359x240-171.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "OUR MISSION",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>To provide <b>GOOD</b> quality competitiveness products to our customers.</p><p>To provide the <b>BEST </b>services to our customers.</p><p>To provide&nbsp;<b>COMPETITIVE</b> price to our customers.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"product\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SHOP NOW</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_name": "gallery2",
+          "_params": {
+            "fullWidth": false,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "images": [
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/il-340x270340x270-135340x270-174.jpg",
+                "image": "@PROJECT_PATH@/assets/images/il-340x270340x270-135.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/192fcf8becc66124436d91b82e20454b1245x1149-1711245x1149-139.jpg",
+                "image": "@PROJECT_PATH@/assets/images/192fcf8becc66124436d91b82e20454b1245x1149-171.jpg",
+                "active": true
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/24845088-532906470435215-3774933759606915072-n640x510-199640x510-194.jpg",
+                "image": "@PROJECT_PATH@/assets/images/24845088-532906470435215-3774933759606915072-n640x510-199.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/il-fullxfull900x700-111900x700-125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/il-fullxfull900x700-111.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/image5800x600-124800x600-151.jpg",
+                "image": "@PROJECT_PATH@/assets/images/image5800x600-124.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/5e2d3b8a7dbefab9153c688054f8ab9a404x316-115404x316-113.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5e2d3b8a7dbefab9153c688054f8ab9a404x316-115.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/download275x184-197275x184-119.jpg",
+                "image": "@PROJECT_PATH@/assets/images/download275x184-197.jpg",
+                "active": false
+              },
+              {
+                "thumb": "@PROJECT_PATH@/assets/images/il-340x270345x218-118345x218-192.jpg",
+                "image": "@PROJECT_PATH@/assets/images/il-340x270345x218-118.jpg",
+                "active": false
+              }
+            ]
+          },
+          "_anchor": "gallery2-45",
+          "articleLayout": true
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-article P": {
+              "text-align": "left"
+            }
+          },
+          "_name": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_anchor": "msg-box5-17",
+          "headerAlign": "left",
+          "title": "GIFTS OF LOVE&nbsp;",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>SNEAK PEEK AT OUR FIRST SCREEN PRINTING ON CANVAS BAG.</p><p>FOR MORE INFO VISIT:</p><p>https://syafiqahrai.wixsite.com/giftsoflove</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"product\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SHOP NOW</a>",
+          "media": {
+            "image": {
+              "src": "images/iphone.png",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/L2SfokF1I_0?rel=0&autoplay=0&loop=0",
+              "class": "mbr-figure__img",
+              "autoplay": false,
+              "loop": false,
+              "active": true
+            }
+          }
+        },
+        {
+          "items": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "",
+              "text": "\" Wow! Thank you very much for the very quick response! My order arrived in perfect condition the next few day. So definitely will order more from you.. \" Shan"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "r",
+              "text": "'' We did received the tumblrs and we are happy! Everyone was very well satisfied, thankyou for your good services gift of love.. \" Ismail<p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">“ Hi gifts of love.. </p><p class=\"mbr-reviews__p\">&nbsp; I finally got to see the bottles last night, we handed them out at our volunteer recognition dinner last night. Everyone loved them! Thank you so much for all your help.. &nbsp;” Fitri</p>"
+            }
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "authorName": "ABANOUB S.",
+              "authorBio": "",
+              "text": "\" Wow! Thank you very much for the very quick response! My order arrived in perfect condition the next few day. So definitely will order more from you.. \" Shan"
+            },
+            {
+              "authorName": "SUFFIAN A.",
+              "authorBio": "r",
+              "text": "'' We did received the tumblrs and we are happy! Everyone was very well satisfied, thankyou for your good services gift of love.. \" Ismail<p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "JHOLLMAN C.",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\">“ Hi gifts of love.. </p><p class=\"mbr-reviews__p\">&nbsp; I finally got to see the bottles last night, we handed them out at our volunteer recognition dinner last night. Everyone loved them! Thank you so much for all your help.. &nbsp;” Fitri</p>"
+            }
+          ],
+          "_anchor": "testimonials1-7",
+          "_params": {
+            "showTitle": true,
+            "showName": false,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.4"
+          },
+          "header": "WHAT OUR FANTASTIC USERS SAY"
         }
       ]
     }
